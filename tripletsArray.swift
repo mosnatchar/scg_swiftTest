@@ -1,4 +1,5 @@
- // let exampleArray = [-3, 1, 2]
+// ข้อ 3
+// let exampleArray = [-3, 1, 2]
  //        let triplets = threeSum(exampleArray)
  //        print("Triplets that sum to zero are: \(triplets)")
 
