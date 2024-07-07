@@ -1,3 +1,4 @@
+// ข้อ 2
 import Foundation
 // let exampleString = "askka"
   //       if isPalindrome(exampleString) {
