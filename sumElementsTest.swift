@@ -1,3 +1,4 @@
+// ข้อ1
 import Foundation
 
 //if let index = findEquilibriumIndex(arr: [1,4,2,5,0]) {
